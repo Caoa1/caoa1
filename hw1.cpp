@@ -11,12 +11,12 @@ int main()
   cin operator;
 
   cout <<"enter first number: /n"<<;
-  cin >> x;
+  cin >> a;
   cout >>"enter second number: /n"<<;
-  cin >> y;
+  cin >> b;
 
-  int x;
-  int y;
+  int a;
+  int b;
 
   cout << a << " " << operator << b << " " << " = " <<;
 
@@ -35,7 +35,7 @@ int main()
     break;
 
     case '4';
-    cout << a/n;
+    cout << a/b;
     break;
     if(b == 0);
     {
